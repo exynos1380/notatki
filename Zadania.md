@@ -6,7 +6,7 @@
 * <https://www.onlinegdb.com/t-knltkom>
 * <https://www.onlinegdb.com/SCYU1SKR8B>
 
-# 2.Pętle
+# 2. Pętle
 * <https://onlinegdb.com/YsMLheLlv>
 # 3. Tablice
 * <https://onlinegdb.com/gaQCHs6dj>
