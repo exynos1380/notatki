@@ -3,6 +3,6 @@ To jest zbiór notatek robionych na lekcjach
 
 
 
-Kontakt [Discord](https://discordapp/users/1278289224080031787).
+Kontakt [Discord](www.discordapp/users/1278289224080031787).
 
  
